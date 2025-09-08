@@ -21,7 +21,15 @@ The aim is to **predict whether an employee will work from home on the next day*
 - **work_home:** Target variable, 1 if the employee worked from home that day, 0 otherwise  
 
 ## Approach
-The project explored various **Supervised Machine Learning models** and explicitly evaluated each choice in terms of **business impact**, not just raw accuracy. The attached PDF outlines the reasoning behind each step and identifies the model best suited for this business case (**spoiler:** it is not the model with the highest test accuracy!).
+The project explored various **Supervised Machine Learning models** and evaluated each choice in terms of **business impact**, not just raw accuracy. Parameters used to finalize the Model were as follows:  
+
+- **Performance:** Accuracy on training and test data, along with the confusion matrix  
+- **Transparent Decision-Making:** Clear rationale behind each choice  
+- **Interpretability Advantage:** Ease of understanding the model's decision logic  
+- **Feature Importance Explanation:** Insights on which features drive predictions  
+- **Practical Adaptability:** Suitability of the model for real-world business application  
+
+The attached PDF details the reasoning behind each step and identifies the model best suited for this business case (**spoiler:** it is not the model with the highest test accuracy!).
 
 ## Outcome
 - **Grade:** 1 (on a scale of 1 to 5, 1 being the best)  
