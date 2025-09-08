@@ -1,5 +1,3 @@
-# work-from-home-prediction
-
 ## Work-from-Home Prediction
 
 **Authors:** Aditi Shilke & Neha Jain  
