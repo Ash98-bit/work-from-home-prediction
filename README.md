@@ -1,9 +1,9 @@
 # Work-from-Home Prediction
 
-**Authors:** Aditi Shilke & Neha Jain  
 **Course:** Machine Learning with Big Data at Frankfurt School of Finance and Management  
 **Taught by:** Dr. Peter Roßbach  
 **Core Focus:** Prediction using Supervised Machine Learning 
+**Authors:** Aditi Shilke & Neha Jain  
 
 ## Project Overview
 This project focuses on creating an **end-to-end solution** that bridges **machine learning with business context**. Starting with data provided by stakeholders, we processed, analyzed, and modeled it to generate **actionable insights**. Every decision—from imputing null values to hyperparameter tuning—was made with a clear rationale, explicitly presented in the attached PDF.
