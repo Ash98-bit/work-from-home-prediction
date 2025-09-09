@@ -1,4 +1,4 @@
-## Work-from-Home Prediction
+# Work-from-Home Prediction
 
 **Authors:** Aditi Shilke & Neha Jain  
 **Course:** Machine Learning with Big Data at Frankfurt School of Finance and Management  
