@@ -3,6 +3,7 @@
 **Course:** Machine Learning with Big Data at Frankfurt School of Finance and Management  
 **Taught by:** Dr. Peter Roßbach  
 **Core Focus:** Prediction using Supervised Machine Learning
+
 **Authors:** Aditi Shilke & Neha Jain  
 
 ## Project Overview
